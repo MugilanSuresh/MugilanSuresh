@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mugilan Suresh</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a passionate Flutter & Android Developer with experience in building high-performance, scalable, and user-friendly mobile applications. My expertise includes developing cross-platform apps using Flutter and native Android apps with Java/Kotlin.</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm a passionate Flutter & Android Developer with experience in building high-performance, scalable, and user-friendly mobile applications. My expertise includes developing cross-platform apps using Flutter and native Android apps with Java.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
