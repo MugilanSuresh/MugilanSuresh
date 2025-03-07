@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mugilan Suresh</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a passionate Flutter & Android Developer with experience in building high-performance, scalable, and user-friendly mobile applications. My expertise includes developing cross-platform apps using Flutter and native Android apps with Java.</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm a passionate Flutter & Android Developer with experience in building high-performance, scalable, and user-friendly mobile applications. My expertise includes developing cross-platform apps using Flutter and native Android apps with Java.Flutter (Dart) – Cross-platform mobile app development Android Development – Native apps using Java & Kotlin State Management – Provider, Riverpod, Bloc UI/UX – Material Design, Custom Animations API Integration – RESTful APIs, GraphQL, WebSockets Database – SQLite, Firebase Firestore, Hive, Room Database Third-Party SDKs – Google Maps, SignalR, Mapbox, Payment Gateways Background Services & Notifications – Firebase Cloud Messaging (FCM), Flutter Background Service, WorkManager Networking & IoT – Wi-Fi communication, TCP/IP, MQTT, Bluetooth Integration</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
